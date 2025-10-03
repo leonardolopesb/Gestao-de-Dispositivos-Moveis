@@ -1,8 +1,7 @@
-namespace DesafioPOO.Models
+namespace DesafioPOO.Models;
+
+// TODO: Herdar da classe "Smartphone"
+public class Nokia
 {
-    // TODO: Herdar da classe "Smartphone"
-    public class Nokia
-    {
-        // TODO: Sobrescrever o método "InstalarAplicativo"
-    }
+    // TODO: Sobrescrever o método "InstalarAplicativo"
 }
